@@ -25,6 +25,10 @@ a.active {
     color: #18bc9c;
 }
 
+.about-row{
+    padding-bottom: 10px;
+}
+
 h1,
 h2,
 h3,

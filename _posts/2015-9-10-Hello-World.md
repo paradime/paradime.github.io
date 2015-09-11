@@ -44,6 +44,6 @@ that is high quality, within budget, and on time.
 ## Picks of the week
 - [Build a blog with Jekyll and GitHub Pages](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 - [Bootstrap Themes @ Start Bootstrap](http://startbootstrap.com/)
-
+- [Downtown - Macklemore & Ryan Lewis](https://www.youtube.com/watch?v=JGhoLcsr8GA)
 [microworlds]: https://en.wikipedia.org/wiki/MicroWorlds
 [cmm]: http://www.covermymeds.com/

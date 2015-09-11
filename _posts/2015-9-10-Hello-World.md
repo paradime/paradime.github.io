@@ -7,7 +7,7 @@ You're up and running... this is where we all start. It's hard to start a blog w
 to write about. I guess the best place to start would be an introuduciton to myself but you can also find
 something a little more exciting [here](/).
 
-## Where i'm From
+## Where I'm From
 I grew up on long island for the first 18 years of my life. As a young lad, it slowly became apparent that making
 video games like Super Mario 64 or Donkey Kong 64 was probably a little too specific. But, it did incentivize
 taking some programming classes. We started with [MicroWorlds][microworlds] moving turtles around and making different coloured
@@ -15,8 +15,8 @@ squiggles. From there we made the move to AP computer science where java was the
 that accepted roman numerals and output their numeric equivalents (and vice-versa) was the first time that this
 programming stuff seemed impressive.
 
-## Whhere i'm at
-Currently i'm in attendance at the Rochester Institute of Technology, studying Software Engineering, Computer Science, and Communications.
+## Whhere I'm at
+Currently I'm in attendance at the Rochester Institute of Technology, studying Software Engineering, Computer Science, and Communications.
 RIT's co-op program landed me a sweet job working at a startup in Columbus, Ohio called [CoverMyMeds][cmm].
 Working as a web developer there has been both challenging and rewarding. I cannot say that I've pushed myself
 to work harder to keep up with my peers as I do here. In the brief 3 months working there, lessons in Ruby,

@@ -207,6 +207,11 @@ section.success a.active {
     }
 }
 
+#center_portfolio{
+  margin: auto;
+  width: 50%;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;

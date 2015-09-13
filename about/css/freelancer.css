@@ -211,6 +211,10 @@ section.success a.active {
   border-left: 1px solid white;
 }
 
+#about_img{
+  max-width: 400px;
+}
+
 #center_portfolio{
   margin: auto;
   width: 50%;

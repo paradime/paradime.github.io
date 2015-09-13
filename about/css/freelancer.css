@@ -207,6 +207,10 @@ section.success a.active {
     }
 }
 
+#blog{
+  border-left: 1px solid white;
+}
+
 #center_portfolio{
   margin: auto;
   width: 50%;

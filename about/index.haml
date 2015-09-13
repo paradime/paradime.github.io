@@ -35,8 +35,6 @@
         / Collect the nav links, forms, and other content for toggling
         #bs-example-navbar-collapse-1.collapse.navbar-collapse
           %ul.nav.navbar-nav.navbar-right
-            %li
-              %a{href: "/posts/"}Blog
             %li.hidden
               %a{:href => "#page-top"}
             %li.page-scroll
@@ -45,6 +43,10 @@
               %a{:href => "#about"} About
             %li.page-scroll
               %a{:href => "#contact"} Contact
+            %li{id: 'blog'}
+              %a{href: "/posts/"}
+                %span.glyphicon.glyphicon-pencil
+                Blog
         / /.navbar-collapse
       / /.container-fluid
     / Header
@@ -309,27 +311,26 @@
           .row
             .col-lg-8.col-lg-offset-2
               .modal-body
-                %h2 Project Title
+                %h2 The Big Man's World
                 %hr.star-primary
-                  %img.img-responsive.img-centered{:alt => "", :src => "img/portfolio/circus.png"}
+                  %img.img-responsive.img-centered{:alt => "", :src => "img/portfolio/Bigmansblog.png"}
                     %p
-                      Use this area of the page to describe your project. The icon above is part of a free icon set by
-                      = succeed "." do
-                        %a{:href => "https://sellfy.com/p/8Q9P/jV3VZ/"} Flat Icons
-                      On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+                      A small project where I worked on the styling of The Big Man's World wordpress blog.
+                    %p "Bryon was so fast, reliable, and inexpensive. I don't bother myself
+                    with those other 'wordpress fix' sites anymore"- Arman Liew
                     %ul.list-inline.item-details
                       %li
                         Client:
                         %strong
-                          %a{:href => "http://startbootstrap.com"} Start Bootstrap
+                          %a{:href => "http://thebigmansworld.com"} Arman Liew
                       %li
                         Date:
                         %strong
-                          %a{:href => "http://startbootstrap.com"} April 2014
+                          %p September 2015
                       %li
                         Service:
                         %strong
-                          %a{:href => "http://startbootstrap.com"} Web Development
+                          %p Wordpress / User Experience
                     %button.btn.btn-default{"data-dismiss" => "modal", :type => "button"}
                       %i.fa.fa-times
                       Close

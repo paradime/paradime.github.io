@@ -3,7 +3,7 @@ layout: post
 title: Learning How to Teach with JQuery
 ---
 
-Recently I gave a presentation at The Ohio State Universitie's Collegiate Web
+Recently I gave a presentation at The Ohio State University's Collegiate Web
 Developer Club on JQuery. This has been one of the first times that I've been in
 the front of a class instead of sitting in its seats. It was quite an odd
 experience and I can now empathize with my prior teachers. Getting a room of 15
@@ -18,15 +18,15 @@ presentation in the classroom.
 ## Drawing them in
 I found that there's a difference between handing students the information and
 making them want the information. I'm sure that not everyone walked in to that
-classroom and was really excited to learn about the ins and outs of jquery. This
+classroom and was really excited to learn about the ins and outs of JQuery. This
 is where credibility comes in. Building this is different for your audience. A
 group of college students are going to be more interested in an entertaining or
 funny lecture than a group of colleagues. I will say that some techniques are
 universal. Humor, analogies, and mental hooks can really aid in getting the
 audience's attention. On a recent [snap
 judgment](https://soundcloud.com/snapjudgment/joyce-lee-dropping-the-ball?in=snapjudgment/sets/brass-ring)
-I heard Joyce Lee, a high school teacher, that integrated the analysis of lil
-waynne's rap lyrics into her critical thinking lecture. To a group of
+I heard Joyce Lee, a high school teacher, integrated the analysis of Lil
+Wayne's rap lyrics into her critical thinking lecture. To a group of
 professionals, this would seem like a less than ideal example but it pulled in
 her demographic. 
 
@@ -53,7 +53,7 @@ deeper
 into what was included in a script. 
 
 1. The paper itself ($)
-2. The actor or acctress ('selector')
+2. The actor or actress ('selector')
 3. The action for them to take or what they should say (action)
 
 This bundles nicely into the syntax for JQuery, ```$('selector').action()```

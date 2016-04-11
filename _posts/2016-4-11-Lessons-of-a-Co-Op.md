@@ -48,6 +48,12 @@ text editor I'm using to write this article in!). One of the biggest perks was
 being able to type without a mouse. This reduces times spent typing/moving the
 mouse and more time thinking about problems.
 
+<div id='container'>
+  <img
+  src='https://raw.githubusercontent.com/paradime/Notes/master/blog/pint.jpg' />
+  <i>Relationships you build at work can lead to an exciting co-op experience</i>
+</div>
+
 ## Work smarter, not harder
 
 One of the easiest pitfalls to fall into when you first start is feeling like

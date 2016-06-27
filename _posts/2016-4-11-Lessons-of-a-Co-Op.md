@@ -28,7 +28,7 @@ be intimidating, but that's ok! If you're the smartest person in the room,
 you're in the wrong room.  It'll feel like you'll learn more in the first few
 weeks, than your entire college experience.**You'll definitely want to get into
 good habits: take a lot of notes and ask a lot of questions.** You're lucky if
-your company has an onboarding program. Having someone tell you all the ~~shit~~
+your company has an onboarding program. Having someone tell you all the 
 stuff you don't know is going to disseminate knowledge more efficiently than
 trying to figure out the unknown unknowns (what you don't know you don't know). 
 

@@ -47,7 +47,7 @@ Which is correct. So then I asked, how would you write that method?
 
 ```ruby
 def self.open
-self.where(active: true)
+  self.where(active: true)
 end
 ```
 

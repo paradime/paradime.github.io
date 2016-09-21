@@ -4,7 +4,7 @@ title: Teachable Moments in Software Pairing
 ---
 
 My last week at CoverMyMeds was a lot of fun. It was satisfying to have no
-obligations to keep my hands in any pots. One of the benefits was being able to
+loose ends left untied. One of the benefits was being able to
 work with a co-op on our team, Braden. Braden started a few months ago and
 pairing in the office made me wish that I had spent more time pairing with him
 since he started. Pairing with Braden reminded me of what it was like when I
@@ -12,7 +12,7 @@ first started, deer in the headlights, confused about everything going on. The
 inspiration for this post started when he asked me to review his code, and that
 led me down this rabbit hole.
 
-It's pretty typical to get a hipchat message asking to have me review someones
+It's pretty typical to get a hipchat message asking to have me review someone's
 code. I'm sure this happens to most developers. We look at it, send back our
 comments, start a conversation, and inevitably, give it a `:+1:`. I was going to
 do that again today; but, I got in early, I didn't have much on my agenda, I
@@ -20,7 +20,7 @@ told Braden I was going to review it with him. This allowed me to do more than
 just review his code. I could give him insights on what I think about when
 reviewing. What kinds of questions I ask myself, like "could this be
 simplified?", "how clear and readable is this code?", "if this test failed,
-would I be able to figure out what went wrong?", "is there any cases that don't
+would I be able to figure out what went wrong?", "are there any cases that don't
 seem to be tested but should be?" 
 
 As we were walking through his code, I could tell that there were some points of
@@ -56,7 +56,7 @@ would we rewrite the `.scope` method?
 
 This took a while as well. We had to break it down. What is calling scope in the
 middle of this line actually doing? Well it's just calling a method called
-`scope` where we pass in 2 arguments, a symbol, and a lambda. So the method
+`scope` where we pass in 2 arguments, a symbol, and a block. So the method
 declaration became easy. 
 ```ruby
 def scope(method_name, method_call)
@@ -65,7 +65,7 @@ end
 ```
 Where I had to explain the concept of _metaprogramming_. Something that I hadn't
 touched until months after starting, and Braden was getting a taste in just a 
-few weeks. Once we talked about define method, it was easy to come up with
+few weeks. Once we talked about `define_method`, it was easy to come up with
 replacing `#blah` with the dynamic definition of a method.
 
 And that was it. A whirlwind introduction to metaprogramming and ruby macros in
@@ -82,5 +82,4 @@ To summarize, Mentor-Mentee pairing starts as Driver-Navigator, where the mentee
 is an active navigator or active driver. And when a concept comes up, that's
 confusing, the mentor steps in and discusses the concept, and walks the mentee
 through examples to ensure understanding. Finally, the pair returns to their
-work. Very much a teach a man to fish/Knowledge is like compound interest
-scenario.
+work. Very much a teach a man to fish scenario.

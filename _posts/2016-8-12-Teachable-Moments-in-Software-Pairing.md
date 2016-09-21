@@ -64,7 +64,7 @@ def scope(method_name, method_call)
  #blah
 end
 ```
-Where I had to explain the concept of _metaprogramming_. Something that I hadn't
+This is where we had to dive into _metaprogramming_. Something that I hadn't
 touched until months after starting, and Braden was getting a taste in just a 
 few weeks. Once we talked about `define_method`, it was easy to come up with
 replacing `#blah` with the dynamic definition of a method.

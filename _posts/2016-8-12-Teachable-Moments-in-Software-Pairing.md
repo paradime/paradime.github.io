@@ -58,6 +58,7 @@ This took a while as well. We had to break it down. What is calling scope in the
 middle of this line actually doing? Well it's just calling a method called
 `scope` where we pass in 2 arguments, a symbol, and a block. So the method
 declaration became easy. 
+
 ```ruby
 def scope(method_name, method_call)
  #blah

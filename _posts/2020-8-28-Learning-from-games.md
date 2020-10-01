@@ -21,7 +21,7 @@ I'd like to share some of the game experiences where the game has earned permane
 
 This section can almost entirely be summed up by this video from The Office.
 
-[![Call of Duty - The Office US](http://img.youtube.com/vi/https://youtu.be/SLqoJwJ-KX0/0.jpg)](https://youtu.be/SLqoJwJ-KX0)
+[![Call of Duty - The Office US](http://img.youtube.com/vi/SLqoJwJ-KX0/0.jpg)](http://www.youtube.com/watch?v=SLqoJwJ-KX0)
 
 World of Warcraft is the reason why I switched majors in college. It is the reason why I like group projects. It is the reason why I [learned how to use data to solve problems objectively](https://www.youtube.com/playlist?list=PLoTel2C0q4R-wc69cVqu13Rqos4CBChGo). WoW is the most influential game I've ever played in my life. WoW's replayability comes from the fact that every dungeon, raid, or pvp experience is different because of the people you choose to share that experience with. For the purposes of this essay, I'm going to focus on the player vs. environment content of raiding.
 

@@ -3,8 +3,6 @@ layout: post
 title: Learning from Video Games
 ---
 
-# Learning from Video Games
-
 ## Hackbot inspiration
 
 I'm a [Teals](https://www.microsoft.com/en-us/teals/about) volunteer, which means that I volunteer to teach high school students computer science. On day 1, we have the kids load up this game called [Light Bot](https://en.wikipedia.org/wiki/Lightbot). It's a pretty short introduction to programming and it's never really referenced later in the curriculum. I think we can do better.

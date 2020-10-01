@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Learning from Video Games
+excerpt_separator: <!--more-->
+
 ---
 
 ## Hackbot inspiration
 
 I'm a [Teals](https://www.microsoft.com/en-us/teals/about) volunteer, which means that I volunteer to teach high school students computer science. On day 1, we have the kids load up this game called [Light Bot](https://en.wikipedia.org/wiki/Lightbot). It's a pretty short introduction to programming and it's never really referenced later in the curriculum. I think we can do better.
-
+<!--more-->
 I recently streamed myself playing a similar puzzle game called [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/). KnotBot is a puzzle game designed to teach you the absolute basics of programming. It does a good job of introducing `if` statements as well as `loops` using `GoTo` statements. It's a really elementary game but would be an awesome introduction to kids who have never programmed before. The game is really colorful and cute and provides an awesome visual representation of how a computer works and can definitely be referenced back to when we introduce those concepts in [Snap!](https://snap.berkeley.edu/)
 
 This posed two thoughts to me which inspired this post. The first is, wouldn't it be cool if we could use games as syllabus items in school? Similar to how you are required to read certain pieces of literature in an english class. How interesting would it be if you were a kid and you were assigned to play through the first section of a video game for homework?

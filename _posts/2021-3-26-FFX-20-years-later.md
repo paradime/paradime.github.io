@@ -10,6 +10,12 @@ excerpt_separator: <!--more-->
 I'll always hold Final Fantasy X (FFX) as my first "real" game that I played as a kid (I was 8!). From every intentional note of "Zanarkand" to the mystique of being introduced to Characters that wouldn't be referenced again for 30 hours. I'm looking at you Auron and the kid in the opening scene. But I do think that looking back that's a bit of a misnomer. This was really the first game that I played with a mature story. I never was able to beat FFX as a kid, and recently I've had the itch to go back and I wanted to share some thoughts on FFX 20 years later.
 <!--more-->
 
+## Where is the fun?
+
+Fun in FFX comes from your typical Final Fantasy RPG tropes. The numbers go up, the enemies are pure Final Fantasy camp, the systems are layered on and interesting. But beyond that, the story is pretty fast paced and easy to follow. The Sphere grid is an innovative take on leveling since there are no levels here, just sphere to tech into. This makes random stat upgrades seem really deliberate and feels fresh. Finally, the Conditional Turn Based combat system is dynamic from turn to turn and fights can feel different while maintaining the core systems. If any of that interests you, I'd recommend trying out FFX if you've never played it.
+
+The following contains gameplay, mechanic, and story spoilers for FFX. 
+
 ## Gameplay
 
 I came into this run off FFX with the expectation that I wanted to get in and get out with as fresh of a perspective as possible. I didn't use a guide for anything more than getting explanations for mechanics when the tooltips were too sparse or too check how far along I was in the story. I also expected that this game would take me about 45 hours and figured I would casually play it over a few weeks. Boy was I wrong, because I binged the whole thing beginning to end in just under 7 days. I also didn't really want to grind so if I died to a boss, I would come at it with a different or refined strategy, unless I was out of ideas.
@@ -40,9 +46,9 @@ FFX was such a "page turner" of a game. It wasn't overly complicated or had wild
 
 As far as themes, Wakka, which I remember to be a huge goofball and noncharacter at the age of 8, was the core vehicle for the exploration of concepts. He has a blind trust in religion that is challenged at every stage in the story. In addition, he has a blind hatred towards the Al Bhed because he believes they are the reason his brother passed. Although there is only a build of tolerance and understanding, Wakka doesn't really change as a person, but how the other characters react to his flat views is really interesting and made me think about how I handle people in my life that show hints of racism or insensitivity.
 
+Wakka also deals with the conflict between their religion banning technology. Everytime it's introduced, he deplores it's use. As the character's journey advances, they learn the reason for this is to concentrate power in the capital. The gang realizes the intent is not pure and begins rethinking their view on Machina, even using it as the main way to defeat Sin and opening up opportunities that did not exist before. It's interesting to see that once they apply the socratic method on their beliefs, Wakka begins to discover that what he believed to be true was merely an illusion.
+
 The score in FFX is GAS and covers a pretty good range of emotions, from uneasey eerieness, to epic battle themes. I went back and listened to the entire score and felt I had to capture these in playlists to bring me back to the highs and lows of this game everytime I heard them. This isn't just Hymn of the Fayth or Zanarkand, the battle music and world zone tracks also perfectly captured the essence of the feeling you had in those zones. I'll link to those playlists below.
-
-
 
 ## Takeaways
 

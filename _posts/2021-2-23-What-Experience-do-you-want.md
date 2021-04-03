@@ -1,0 +1,49 @@
+What experience do you want from a game?
+
+- Story
+  - Story used to be the backdrop to rationalize gameplay
+  - in my previous post I talked about how the story of Witcher 3 was a huge draw for me to play the game
+  - Visual novels are this in the most pure form
+  - DanganRonpa is probably the next level from that
+  - Wanting to play a game for the story is an emergent property of games evolving from the RPG genre
+    - the thing holding back pacman was the compelling story!
+- Gameplay
+  - you're playing the game for the fun of the game
+  - Furi, Portal, Slay the Spire, Counter Strike, League of Legends
+    - these are the 'gamer' games
+  - your brain needs to be turned on and you are actively, thinking, planning or reacting to the game
+  - these games succeed the most when you get into a state of flow
+  - most roguelike games (before Hades) fall under this genre because there is no story and each run is 'live'
+    - I haven't played a roguelite game that that expects grinding from the player
+- Grinding
+  - "mindless" or "turn your brain off" gameplay with an innevitable payoff at the end
+  - payoffs include
+    - new gameplay features
+    - story beats
+  - "knitting" experience
+    - podcast or audiobook
+  - ex. Leveling a second character in an mmo
+    - you've already had the experience, 
+    - payoff of having a new experience of playing the content with a different class
+  - ex. Beating up easy enemies that aren't required to beat a dungeon
+    - there is no challenge, in persona 5, there's even an auto vulnerability button
+      - in DQ11 there is a complete auto battle feature
+    - payoff is that the next challenge will be attainable or easier
+    - a well tuned JRPG doesn't have need the EXCESS enemies to complete the boss
+- Games can be in multiple lines
+  - in DQ11, I found the most fun to be setting up my character's and 
+    - then watching them beat up enemies of similar level without my help
+    - But the Vignette story telling combined with an overall story arch was definitely the carrot that kept the gameplay loop from getting stale
+      - story beat -> setup character -> grind to boss -> repeat
+- Why is this important?
+  - Besides just liking a genre or picking up the hottest new game, think about what kind of experience you'd like to have!
+  - I've used grinding in WoW as a vehicle for listening to audiobooks as it can keep my hands busy while I knock out some chores for my character's power level which pays off when I want to do a difficult dungeon, raid, or pvp session.
+  - When I want to just experience a story, I have leaned more towards persona 5 recently rather than booting up magic, hearthstone, or Legends of Runeterra
+  - Backlogs can get really full and it's hard to resist the temptation of buying a new game without thinking about what experience this fulfills
+  - FFXIV is story driven, but sometimes you just want a grind
+  - Gameplay can become grind when you've experienced the same thing enough times that it's lost it's sheen
+    - ex. I enjoyed the combat system of P4 and P5 less BECAUSE I played Octopath Traveler
+      - They're not bad, but how many times can you solve the puzzle of 'craft the team with all the weakness breakers'
+    - Progression treadmills that change up the gameplay in interesting ways keep things fresh
+      - ex. Stardew Valley's day 1 is different from day 30 which is different from day 300, the gameplay evolves and your goals change but the foundational systems are still the
+      - 

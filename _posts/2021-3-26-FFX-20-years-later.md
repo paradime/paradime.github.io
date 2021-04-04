@@ -53,4 +53,3 @@ The score in FFX is GAS and covers a pretty good range of emotions, from uneasy 
 One of the ideas that I've been grappling with recently has been around moving on from games. One of my friends says that when he finishes a good story, he grieves for a day or two. I definitely get this, it's hard to pick up a new story after having such an electric experience. As I mentioned at the top, this is a way of processing these kinds of experiences. Besides writing my thoughts down, I also took the time to listen to the entire score and move noteworthy pieces to a playlist. This allows me to have a 'souvenir' for FFX where I can transport myself back to Spira at any time.
 
 Overall I really loved the experience that was FFX and I think it will always be a game that's shaped me, whether I knew it or not.
-~~~~

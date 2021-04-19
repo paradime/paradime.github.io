@@ -4,6 +4,7 @@ title: Chrono Trigger
 excerpt_separator: <!--more-->
 
 ---
+![Chrono Trigger Logo](https://chronotrigger.square-enix-games.com/static/logo.png)
 
 # Intro
 
@@ -27,11 +28,19 @@ Because this was an older game, there was no line or arrow telling you where to 
 
 Coming in, I was a bit concerned about the real time/turn based combat system. I think searching through menus while your enemies are whacking you in the face is more anxiety inducing than fun. Luckily, I found that there is a 'wait' setting for battle style. This option really reduced anxiety. It gave me the real time experience while also giving me space to slow down time while you made a decision when needed. The ‘wait’ setting pauses time in a battle, but only when you're in an item or special move menu.
 
+![Cyclone attack based on position](https://steemitimages.com/p/o1AJ9qDyyJNSpZWhUgGYc3MngFqoAMxnZWWJyccbswN8Tw3Bk?format=match&mode=fit)
+
 I really liked how the game introduced the idea of timing your attacks when a monster is in a certain position. For example, to cast a cyclone move that hits all targets in a small area, you have to wait for monsters to clump together as they move around. I think this is one of the things that makes each party composition feel different. Ayla and Chrono were in my main party and they had a powerful move that only affects targets in a horizontal line, so you'd have to wait for many enemies to line up for a devastating attack. If you didn’t want to engage with this system Chrono Trigger can accommodate that too. There are even combos that don't care about positioning of enemies, they just hit everyone on the screen.
 
 In the moment to moment decision making of combat, it definitely felt like you would start to plan moves in batches as all of your characters would recharge at similar rates. This leads to questions like: Am I safe enough to use all my moves on a huge combo that uses all 3 turns? Do I need to recover one person or the whole party? Am I making long term progress on reducing the enemies health? I would find myself asking and answering these questions within a few seconds after picking my previous moves. 
 
 The boss and enemy design was also great. Because timing was important, random encounters felt like a small puzzle. My favorite boss was the Masamune character who required you to cast a specific ability in order to counter his move, but the only way you find out about this is by talking to NPCs in a nearby town! This trick turned an impossible fight into something more manageable but not trivial. I also really enjoyed the 9 mode final boss that would test your memory of all 9 previous bosses.
+
+![Chrono Trigger world exploration](https://cdn.gamer-network.net/2018/usgamer/chrono_trigger_patch_03.jpg)
+World Exploration
+
+![Chrono Trigger on screen battle](https://cdn.gamer-network.net/2018/usgamer/chrono_trigger_patch_05.jpg)
+On screen battles are the same as the world exploration
 
 All I can say is I wish that on screen turn based battles was an adopted feature into the turn based JRPG space. Rather than bumping into an enemy and then fading into a new combat view (think: walking around the world and then the battle view in Pokemon), Chrono Trigger had the walking around and combat system take place on the same map. It was a really small thing that made a HUGE difference in my enjoyment of the game.
 

@@ -4,7 +4,7 @@ title: Final Fantasy X 20 Years Later
 excerpt_separator: <!--more-->
 
 ---
-![Final Fantasy X Logo](https://static.wikia.nocookie.net/finalfantasy/images/8/82/FFX_logo.png/revision/latest?cb=20160920112920)
+![Final Fantasy X Logo](https://static.wikia.nocookie.net/finalfantasy/images/8/82/FFX_logo.png/revision/latest/scale-to-width-down/563?cb=20160920112920)
 
 ## History
 

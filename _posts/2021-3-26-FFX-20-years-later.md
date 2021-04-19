@@ -4,6 +4,7 @@ title: Final Fantasy X 20 Years Later
 excerpt_separator: <!--more-->
 
 ---
+![Final Fantasy X Logo](https://static.wikia.nocookie.net/finalfantasy/images/8/82/FFX_logo.png/revision/latest?cb=20160920112920)
 
 ## History
 
@@ -28,7 +29,13 @@ One of the best parts about FFX is the combat system and you get pretty cozy wit
 
 I also liked how your characters are really rewarded for leveling up. Whenever you get to a new zone, your counter for a random enemy might be just out of range to be 1 shot. But by the end of the zone you'd almost always hit that bar. It always felt like significant progression.
 
+![Conditional Turn Based Battle System Example](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/final-fantasy-x-battle-system-1.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5)
+
+Turn order is displayed in upper right hand corner. CTB Battle system allows a character to make multiple moves in a row.
+
 I really enjoyed the Conditional Turn Based Battle System in FFX. Rather than having a turn where everyone gets to go and your character's speed determines who goes first in the order (think: Pokemon). In FFX, your character's speed affects how long it takes for them to go again. So you could have a faster character like Tidus make 2 or 3 moves between every enemy's move. Also certain moves take longer to recharge. For example Firaga (Fire 3) takes longer to recharge than Fire (Fire 1), so there's an incentive to use a smaller spell if you only need a smaller spell, whereas in other games mana efficiency is the incentive, but it never ends up being important late game.I think this system works really well, but its biggest downside is that to be successful, you really have to exploit it as much as possible with Haste and Slow spells. There are bosses late game that are immune to Slow and remove Haste and honestly those felt the most balanced and challenging.
+
+![Sphere Grid System Example](https://static.wikia.nocookie.net/finalfantasy/images/4/46/FFX_Sphere_Grid_Wakka.png/revision/latest/scale-to-width-down/960?cb=20130215054405)
 
 The Sphere Grid system removed random stat gains and always got me excited to move 3 spheres forward. I really loved this system and wish it was more prevalent in games, albeit a little simplified. It also got me excited about hitting a strength boost for Wakka/Tidus/Auron because 4 strength is HUGE in this game. 
 

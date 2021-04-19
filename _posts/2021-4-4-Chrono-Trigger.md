@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 # Intro
 
 Chrono Trigger is NOT my favorite game. The story was interesting and handled time travel well, but lacked strong emotional beats. "Optional" content wasn't really optional as the final boss would delete your party if you weren't 5-10 levels above the previous dungeon's expected level. That being said, if I played this game when I was 13, this would 100% be my favorite game. I had a blast playing it and despite these small issues, I could easily see myself replaying this bad boy every couple of years.
+<!--more-->
 
 ## Where is the fun?
 
